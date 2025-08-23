@@ -16,5 +16,7 @@ NLF, atau singkatan pribadi saya untuk frase *«*[*Nothing Lasts Forever*](https
     
 * [Whabitsta.](https://blog.sua.ist/whabitsta) RIP WhatsApp x Bitwarden x Standard Notes Desktop.
     
+* [Lnklst.](https://blog.sua.ist/lnklst) RIP Tumblr Linklist.
+    
 
 ([sua](https://sua.ist))
