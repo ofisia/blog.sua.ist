@@ -6,7 +6,7 @@ slug: bscr-sts
 
 ---
 
-*Obscure sites*, begitulah saya biasa menyebutnya. Di tengah laju *information superhighway* yang [fana](https://blog.sua.ist/nlf) ini, sesekali akan muncul situs baru yang tidak akan dapat diprediksi oleh siapapun berapa lama usia hidupnya. Hey, bahkan [Friendster](https://friendster.com) yang *super duper* populer pada zamannya pun akhirnya meredup dan *<s>repositioning</s>* direduksi jadi sebuah situs [*social gaming*](https://en.wikipedia.org/wiki/Friendster), serta akhirnya kalah saingan dengan [Facebook](https://facebook.com).
+*Obscure sites*, begitulah saya biasa menyebutnya. Di tengah laju *information superhighway* yang [fana](https://blog.sua.ist/nlf) ini, sesekali akan muncul situs baru yang tidak akan dapat diprediksi oleh siapapun berapa lama usia hidupnya. *Hey,* bahkan [Friendster](https://friendster.com) yang *super duper* populer pada zamannya pun akhirnya meredup dan *<s>repositioning</s>* direduksi jadi sebuah situs [*social gaming*](https://en.wikipedia.org/wiki/Friendster), serta akhirnya kalah saingan dengan [Facebook](https://facebook.com).
 
 Meskipun demikian, setiap <s>embrio</s> entitas yang <s>menetas</s> muncul di internet adalah sebuah kesempatan sekali seumur hidup yang dapat dimanfaatkan sebagai fasilitas penambah daftar [*backlink*](https://en.wikipedia.org/wiki/Backlink) yang *organic*, yang walaupun sedikit, lambat laun akan tetap menjadi bukit. [*SEO*](https://en.wikipedia.org/wiki/Search_engine_optimization)*\-wise, If you know, you know*.
 
