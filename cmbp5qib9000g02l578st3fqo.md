@@ -6,7 +6,7 @@ slug: 20250608
 
 ---
 
-zzzHari ini saya sedang *single*, kemarin istri saya berangkat bepergian ke luar kota dalam provinsi, besok baru jadwal saya menjemput beliau di sebuah stasiun. Seharian ini saya mencoba *juggling* beberapa kegiatan sekaligus, bahasa kerennya *multitasking*.
+Hari ini saya sedang *single*, kemarin istri saya berangkat bepergian ke luar kota dalam provinsi, besok baru jadwal saya menjemput beliau di sebuah stasiun. Seharian ini saya mencoba *juggling* beberapa kegiatan sekaligus, bahasa kerennya *multitasking*.
 
 Diantara sejumlah interval siklus hitung mundur pembilas dan pengering sebuah mesin cuci, terhitung total dua kali sehari saya menanaskan sepanci rawon, sebuah menu tipikal penuh kearifan lokal pada saat Iduladha serta beberapa waktu setelahnya, dan dua kali sehari juga saya mendinginkan dan menyimpan pancinya dalam lemari es, wujud penghormatan terakhir bagi sang sapi agar hasil pengorbanannya berfaedah sedikit lebih lama.
 
