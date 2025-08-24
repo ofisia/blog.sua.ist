@@ -1,0 +1,21 @@
+---
+title: "Darparfan."
+datePublished: Tue Oct 05 2021 05:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cm8b2syxb000209joa2lk7tya
+slug: darparfan
+
+---
+
+Setelah sekian lama menundanya, akhirnya kami menyempatkan diri untuk menonton film «[Parasite](https://en.wikipedia.org/wiki/Parasite_\(2019_film\))» karya [Bong Joon Ho](https://en.wikipedia.org/wiki/Bong_Joon-ho). Pasca menonton «[Okja](https://en.wikipedia.org/wiki/Okja),» dapat kami simpulkan bahwa film-film arahan sutradara Korea Selatan ini memang rerata memiliki cerita dan alur yang *out of the box*, meskipun memang tidak sampai <s>separah</s> seunik film «[Tenet](https://en.wikipedia.org/wiki/Tenet_\(film\))» karya [Christopher Nolan](https://en.wikipedia.org/wiki/Christopher_Nolan), yang bahkan sineas kawakan macam [Quentin Tarantino](https://en.wikipedia.org/wiki/Quentin_tarantino)\-pun masih [kesusahan mencerna](https://www.independent.co.uk/arts-entertainment/films/news/quentin-tarantino-christopher-nolan-tenet-b1885276.html)nya. Sebuah ulasan film bahkan menyebutkan bahwa «Parasite» ibarat dua film dengan cerita berbeda, yang baru memunculkan konflik dan atau berganti alur tepat pada pertengahan dari durasi total film.
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1742095692920/42e87f26-eb8b-4da2-86da-a30d878272dd.png align="left")
+
+(poster film «[The Darjeeling Limited](https://en.wikipedia.org/wiki/The_Darjeeling_Limited),» «[Parasite](https://en.wikipedia.org/wiki/Parasite_\(2019_film\)),» dan «[Fantastic Mr. Fox](https://en.wikipedia.org/wiki/Fantastic_Mr._Fox_\(film\)).»)
+
+Tentunya, film susah dicerna berbahasa *non* Inggris ini tidak kami tonton sendirian, agenda tayangnya *sandwiched* antara dongeng audio visual arahan sutradara [Wes Anderson](https://en.wikipedia.org/wiki/Wes_Anderson). Istri saya langsung sepakat saja ketika saya menyampaikan pernyataan barusan, karena ia juga merasakan bahwa ketika menonton film-film Wes Anderson memang ibarat disuguhi lembaran-lembaran estetik sebuah novel grafis yang ilustrasinya teranimasi. Persis seperti pengalamannya saat pertama kali menonton «[Persepolis](https://en.wikipedia.org/wiki/Persepolis_\(film\))» karya [Marjane Satrapi](https://en.wikipedia.org/wiki/Marjane_Satrapi) dan [Vincent Paronnaud](https://en.wikipedia.org/wiki/Vincent_Paronnaud), setelah sebelumnya telah akrab dengan «[Embroideries](https://www.goodreads.com/book/show/9526.Embroideries).»
+
+Dua film Wes Anderson tersebut adalah «[The Darjeeling Limited](https://en.wikipedia.org/wiki/The_Darjeeling_Limited)» dan «[Fantastic Mr. Fox](https://en.wikipedia.org/wiki/Fantastic_Mr._Fox_\(film\)),» kebetulan sekali judul yang terakhir adalah sebuah film dengan teknik animasi *stop motion,* jadi sangat masuk akal jika disebut sebagai dongeng audio visual. Bagi saya saat ini, ketika [David Fincher](https://en.wikipedia.org/wiki/David_Fincher) masih sibuk bersembunyi di gua pertapaannya, momen-momen saat film Wes Anderson dirilis adalah bagaikan momen-momen *«shut up and take my <s>money</s> data plan.»* Sudah bukan rahasia, <s>kami</s> saya sudah tak sabar menunggu kehadiran «[The French Dispatch](https://en.wikipedia.org/wiki/The_French_Dispatch).»
+
+Film-film Wes Anderson selalu diiringi dengan musik latar yang *kece badai*, pada suatu ketika istri saya bertanya-tanya bagaimana saya tetiba bisa <s>hafal</s> ikut menyanyikan lagu «[Street Fighting Man](https://en.wikipedia.org/wiki/Street_Fighting_Man)» milik [The Rolling Stones](https://en.wikipedia.org/wiki/The_Rolling_Stones) yang diputar dalam salah satu adegan film «Fantastic Mr. Fox,» padahal selama ini ia tak pernah tahu saya memutar maupun menyenandungkannya. Dengan berlagak setengah sombong, saya menjawab pertanyaannya dengan kalimat *trademark* salah satu keponakan kami, yakni *«ya iya lah...»* Padahal sebenarnya saya sebenarnya bukan penggemar band Inggris tersebut, dan baru hafal nada dan liriknya justru dari versi *cover* milik [Rage Against The Machine](https://en.wikipedia.org/wiki/Rage_Against_the_Machine), pada album «[Renegades](https://en.wikipedia.org/wiki/Renegades_\(Rage_Against_the_Machine_album\)),» yang biasa saya putar menyerupai alamat [Apple Campus](https://en.wikipedia.org/wiki/Apple_Campus), yakni «[Infinite Loop](https://en.wikipedia.org/wiki/Infinite_loop).»
+
+([sua](https://sua.ist))
