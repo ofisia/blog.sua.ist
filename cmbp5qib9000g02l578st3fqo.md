@@ -1,0 +1,25 @@
+---
+title: "20250608."
+datePublished: Sun Jun 08 2025 13:58:18 GMT+0000 (Coordinated Universal Time)
+cuid: cmbp5qib9000g02l578st3fqo
+slug: 20250608
+
+---
+
+zzzHari ini saya sedang *single*, kemarin istri saya berangkat bepergian ke luar kota dalam provinsi, besok baru jadwal saya menjemput beliau di sebuah stasiun. Seharian ini saya mencoba *juggling* beberapa kegiatan sekaligus, bahasa kerennya *multitasking*.
+
+Diantara sejumlah interval siklus hitung mundur pembilas dan pengering sebuah mesin cuci, terhitung total dua kali sehari saya menanaskan sepanci rawon, sebuah menu tipikal penuh kearifan lokal pada saat Iduladha serta beberapa waktu setelahnya, dan dua kali sehari juga saya mendinginkan dan menyimpan pancinya dalam lemari es, wujud penghormatan terakhir bagi sang sapi agar hasil pengorbanannya berfaedah sedikit lebih lama.
+
+Pula sebagai *tribute* bagi nona [Greta Thunberg](https://en.wikipedia.org/wiki/Greta_Thunberg) *cum suis* yang sedang berlayar menuju [Gaza](https://en.wikipedia.org/wiki/Gaza_Strip) dengan kapal [The Madleen](https://en.wikipedia.org/wiki/June_2025_Gaza_Freedom_Flotilla#Voyage) milik [Freedom Flotilla Coalition](https://freedomflotilla.org/). Tidak terlampau *high effort*, saya hanya mendaur ulang *custom typography* *‹*[*End Massacre*](https://www.instagram.com/reel/CzQezNoyblp/)*›* lalu mereduksinya menjadi lima huruf nama depan pemudi penggagas [*Skolstrejk för Klimatet*](https://en.wikipedia.org/wiki/Fridays_for_Future), *the one and only*, nona ‹[Greta](https://www.instagram.com/reel/DKpSIMZTcmC)› Thunberg.
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1749477434032/8e8d1f7c-5faa-48fa-930d-716fc6c6d4d6.png align="center")
+
+Setelah selesai diekspor sebagai berkas video untuk diterbitkan sebagai sebuah *reel* Instagram, saya memilih lagu [Run The Jewels](https://en.wikipedia.org/wiki/Run_the_Jewels) yang bertajuk *‹*[*Sea Legs*](https://www.youtube.com/watch?v=YbnhUVTTdHE)*›* sebagai musik latar, sebab kebetulan bung [El-P](https://en.wikipedia.org/wiki/El-P) menyertakan suara ala debur ombak pada bagian *intro*nya. Sebenarnya saya pribadi lebih menggemari [versi *remix*](https://www.youtube.com/watch?v=YbnhUVTTdHE) bung [Dave Sitek](https://en.wikipedia.org/wiki/Dave_Sitek), namun sayangnya bung Dave memilih untuk menanggalkan elemen maritim tersebut.
+
+Seusai animasi *looping* enam belas detik ‹Greta› diterbitkan dan disebar luaskan serupa bara api liar di hamparan padang rumput kering lewat sejumlah story [akun](https://instagram.com/lv.dsgn.lv) [Instagram](https://instagram.com/sua.ist) [sekunder](https://instagram.com/ibu.ayu.lv), saya menemukan diri saya terbaring di permukaan datar sambil menatap urutan angka *alarm* hitung mundur di gawai.
+
+Meskipun nona [Marie Kondo](https://en.wikipedia.org/wiki/Marie_Kondo) sudah memutuskan [pensiun](https://www.theguardian.com/lifeandstyle/2023/jan/30/queen-of-clean-marie-kondo-says-she-has-kind-of-given-up-on-tidying-at-home) dari *tetek bengek* metode *‹*[*Konmari*](https://konmari.com/about-the-konmari-method)*,›* akan tetapi *legacy* beliau tetap patut saya hormati dengan turut serta mempensiunkan aplikasi-aplikasi yang sudah tidak lagi *spark joy* di gawai saya, daripada semakin tidak berfaedah menyita lahan dalam penyimpanan [*read only memory*](https://en.wikipedia.org/wiki/Read-only_memory).
+
+Secara alfabetis, aplikasi-aplikasi yang masuk daftar target operasi tersebut adalah: [Luma AI](https://play.google.com/store/apps/details?id=ai.lumalabs.polar), [Philips Air+](https://play.google.com/store/apps/details?id=com.philips.ph.homecare), [Asana](https://play.google.com/store/apps/details?id=com.asana.app), [Chatra](https://play.google.com/store/apps/details?id=com.chatra.app), [Concepts](https://play.google.com/store/apps/details?id=com.tophatch.concepts), [Fleep](https://play.google.com/store/apps/details?id=io.fleep.android), [Keybase](https://play.google.com/store/apps/details?id=io.keybase.ossifrage), [Huawei HiLink](https://consumer.huawei.com/minisite/mobilewifiapp/download_guide/en/download_guide.html), [MyXL](https://play.google.com/store/apps/details?id=com.apps.MyXL), [Phiro Go](https://play.google.com/store/apps/details?id=com.spasi.phirogo), [Plaky](https://play.google.com/store/apps/details?id=com.plaky.android), [Penguin Isle](https://play.google.com/store/apps/details?id=com.fantome.penguinisle), [Sketchbook](https://play.google.com/store/apps/details?id=com.adsk.sketchbook), dan [Tayasui Sketches](https://play.google.com/store/apps/details?id=com.tayasui.sketches). Tentunya sangat ada alasan masing-masing kenapa saya *uninstall* tiap aplikasi tersebut, akan tetapi menulisnya disini akan membuat entri ini menjadi terlampau sempurna. Lagipula badan saya sudah mulai lelah, mengumpulkan tautan-tautan Google [Play Store](https://en.wikipedia.org/wiki/Google_Play) diatas saja sudah cukup melelahkan, dan menambah durasi tulis-menulis bukanlah kegiatan yang *spark joy* di malam berhias hujan deras dan gemuruh guntur ini.
+
+([sua](https://sua.ist))
