@@ -1,0 +1,23 @@
+---
+title: "20210511."
+datePublished: Tue May 11 2021 05:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cm8ai284z000909jv2tr1byzo
+slug: 20210511
+
+---
+
+Pagi hari ini dihiasi dengan *the usual drill*, mengulangi ritual [<s>Sparta</s>](https://www.youtube.com/watch?v=4Prc1UfuokY) [300](/300), menyunting sedikit templat HTML di sana-sini demi memutakhirkan *domain* yang baru saja terkena imbas [*crack down*](https://en.wiktionary.org/wiki/crack_down), serta mengunggah ulang *site image* demi menyamaratakan tampilan gambar [OpenGraph](https://ogp.me/) serta [Twitter Cards](https://developer.twitter.com/en/docs/twitter-for-websites/cards/guides/getting-started). Saya mulai menanggalkan logo ‹[ج](https://en.wiktionary.org/wiki/%D8%AC)› dengan logo ‹[**sua.ist**](http://sua.ist)› versi *vertical stack*, sedangkan logo yang dipakai di blog berbasis [Teletype](https://teletype.in/) ini adalah yang versi [*ligature*](https://en.wikipedia.org/wiki/Ligature_\(writing\)). Kenapa berbeda? *Well, let's keep that story for another day.*
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1742060928894/260e711d-7614-46e0-b222-a6156b784d8b.jpeg align="left")
+
+([sumber gambar](https://www.oldbookillustrations.com/illustrations/in-clawes-lay/))
+
+Lalu, entah kenapa, dengan ceroboh saya telah menghapus pengaturan lokal pada peramban [Google Chrome](https://google.com/chrome) saya, sehingga segala koleksi [ekstensi](https://support.google.com/chrome_webstore/answer/2664769) esensial saya lenyap seketika. Butuh waktu beberapa lama bagi saya untuk mengembalikan mereka hampir seperti semula, saya bilang hampir karena ada beberapa yang saya masih lupa namanya, saya hanya terbiasa menghafalkan ikon-ikonnya, itupun riskan berubah ketika pengembangnya memutuskan untuk memutakhirkannya.
+
+Mengenai perihal *crack down* yang saya tulis pada paragraf pembuka entri ini, semuanya dimulai ketika [AFNIC](https://en.wikipedia.org/wiki/Association_fran%C3%A7aise_pour_le_nommage_Internet_en_coop%C3%A9ration) memperketat prosedur pendaftaran *domain* yang berada dibawah tata kelola mereka, yakni [TLD](https://en.wikipedia.org/wiki/Top-level_domain) [.fr](https://en.wikipedia.org/wiki/.fr), [.re](https://en.wikipedia.org/wiki/.re), [.yt](https://en.wikipedia.org/wiki/.yt), [.tf](https://en.wikipedia.org/wiki/.tf), [.pm](https://en.wikipedia.org/wiki/.pm), [.wf](https://en.wikipedia.org/wiki/.wf). Kebetulan sekali, melalui sebuah penyedia jasa pendaftaran domain di Indonesia yang bernama [Qwords](https://www.qwords.com/), saya sempat mendaftarkan tiga domain dengan ekstensi-ekstensi tersebut, tepatnya [logo.tf](http://logo.tf), [ayu.pm](http://ayu.pm), serta [dsgn.re](http://dsgn.re). Alasan saya sederhana saya, harganya *naudzubillah* murah meriah, masing-masing hanya seratus dua puluh ribu rupiah per tahun.
+
+Di luar dugaan, tanpa pernah saya sangka sama sekali, pihak AFNIC tetiba mengirimkan surel pemberitahuan bahwa domain-domain tersebut sebenarnya hanya bisa didaftarkan oleh pendaftar yang memiliki bukti kewarganegaraan Perancis. Sebagai seorang warga negara Indonesia yang sekadar mengenal negara Perancis lewat [Justice](https://en.wikipedia.org/wiki/Justice_\(band\)) dan [M83](https://en.wikipedia.org/wiki/M83_\(band\)), saya hanya bisa *mengo mingkem* dan tak berkutik ketika tenggat waktu yang diberikan terlewati. Walhasil, domain-domain yang sebelumnya telah berhasil didaftarkan oleh seorang bernama pribumi ini akhirnya di *suspend* lalu segera menjadi tidak aktif meski belum genap merayakan ulang tahun yang pertama.
+
+Kini nasi telah menjadi bubur, dan pil <s>pahit</s> [merah](https://en.wikipedia.org/wiki/Red_pill_and_blue_pill) telah ditelan oleh [Neo](https://en.wikipedia.org/wiki/Neo_\(The_Matrix\)), saatnya tekan tombol *rewind*. Untungnya saya telah menemukan TLD alternatif yang masih relatif murah meriah untuk dipakai dalam jangka waktu yang panjang, yakni [.lv](https://en.wikipedia.org/wiki/.lv) milik negara [Latvia](https://en.wikipedia.org/wiki/Latvia). Situs pribadi istri saya yang sebelumnya dapat diakses lewat [ayu.pm](http://ayu.pm) sekarang berada pada alamat URL [**ayu.lv**](http://ayu.lv), sedangkan *redirection* URL milik saya yang tadinya adalah [dsgn.re](http://dsgn.re) sekarang telah berganti menjadi [**dsgn.lv**](http://dsgn.lv), yang sah-sah saja bila <s>dibaca</s> diinterpretasikan sebagai *‹design love›* minus huruf-huruf vokal. Saat tulisan ini diterbitkan, domain [dsgn.re](http://dsgn.re) masih belum di *suspend*, namun sudah bisa dipastikan nasibnya serupa dengan [Krisdayanti](https://en.wikipedia.org/wiki/Krisdayanti) yang tinggal [*menghitung hari*](https://www.youtube.com/watch?v=17h7pKUC9s8).
+
+([sua](https://sua.ist))
