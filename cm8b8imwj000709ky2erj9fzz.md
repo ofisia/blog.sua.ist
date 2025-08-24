@@ -6,7 +6,7 @@ slug: lzy-mntng
 
 ---
 
-zzzPada tanggal tujuh belas bulan Juli tahun dua ribu delapan belas saya mengunggah sebuah [**foto amatir**](https://unsplash.com/photos/tc3qfxD9T6c) kemudian membiarkannya untuk bebas dipakai menggunakan lisensi [Unsplash](https://unsplash.com/license). Pada tanggal dua puluh empat bulan April tahun dua ribu dua puluh tiga saya mengunggah foto amatir tersebut ke [*blockchain*](https://en.wikipedia.org/wiki/Blockchain) sebagai sebuah [*non-fungible token*](https://en.wikipedia.org/wiki/Non-fungible_token) [**edisi tunggal**](https://rarible.com/token/0xc9154424b823b10579895ccbe442d41b9abd96ed:78416623761027869177289530775530707816721965800587437112759099963970156494849?tab=overview) lewat situs [Rarible](https://rarible.com).
+Pada tanggal tujuh belas bulan Juli tahun dua ribu delapan belas saya mengunggah sebuah [**foto amatir**](https://unsplash.com/photos/tc3qfxD9T6c) kemudian membiarkannya untuk bebas dipakai menggunakan lisensi [Unsplash](https://unsplash.com/license). Pada tanggal dua puluh empat bulan April tahun dua ribu dua puluh tiga saya mengunggah foto amatir tersebut ke [*blockchain*](https://en.wikipedia.org/wiki/Blockchain) sebagai sebuah [*non-fungible token*](https://en.wikipedia.org/wiki/Non-fungible_token) [**edisi tunggal**](https://rarible.com/token/0xc9154424b823b10579895ccbe442d41b9abd96ed:78416623761027869177289530775530707816721965800587437112759099963970156494849?tab=overview) lewat situs [Rarible](https://rarible.com).
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1742105283044/78fbb894-5fab-45d0-9d18-620e5697dcf8.png align="left")
 
