@@ -6,7 +6,7 @@ slug: 20250821
 
 ---
 
-zzzSalah satu hal yang paling menyebalkan adalah ketika konten yang diterbitkan di *domain* gratis malah muncul lebih awal ketimbang *domain* <s>pribadi</s> berbayar pada sebuah *search engine result page* ([SERP](https://en.wikipedia.org/wiki/Search_engine_results_page)). Membuat saya selalu bertanya-tanya kepada rerumputan yang bergoyang. *How come, dawg? How is this possible, Homie?*
+Salah satu hal yang paling menyebalkan adalah ketika konten yang diterbitkan di *domain* gratis malah muncul lebih awal ketimbang *domain* <s>pribadi</s> berbayar pada sebuah *search engine result page* ([SERP](https://en.wikipedia.org/wiki/Search_engine_results_page)). Membuat saya selalu bertanya-tanya kepada rerumputan yang bergoyang. *How come, dawg? How is this possible, Homie?*
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1755795963051/fbf2c5e5-da48-46dd-be61-290a875d946a.png align="center")
 
