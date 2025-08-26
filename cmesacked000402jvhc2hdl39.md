@@ -20,7 +20,7 @@ Setelah sempat putus asa pada [minggu lalu](https://blog.sua.ist/whabitsta), kin
     
 4. Tempel `defaults read com.bitwarden.desktop SquirrelAutomaticallyUpdate` untuk memeriksa ulang nonaktifasi.
     
-5. Jika *output* menampilkan angka `0` maka berarti `false` *a.k.a.* pemutakhiran otomatis telah nonaktifkan.
+5. Jika *output* menampilkan angka `0` maka berarti `false` *a.k.a.* pemutakhiran otomatis Bitwarden telah nonaktifkan.
     
 
 Baiklah, demikian saudara-saudari, pestanya bubar. Saatnya kembali ke rutinitas awal, dengan Bitwarden versi usang, tapi yang penting masih bisa dipakai. Karena *updates* adalah untuk *poseurs*.
