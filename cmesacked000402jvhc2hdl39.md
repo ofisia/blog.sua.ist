@@ -6,7 +6,7 @@ slug: dsbl-btwrdn-pdts
 
 ---
 
-Setelah sempat putus asa pada [minggu lalu](https://blog.sua.ist/whabitsta), kini saya telah menemukan cara untuk menonaktifkan pemutakhiran otomatis [Bitwarden](https://bitwarden.com/). Urutan langkahnya sederhana saja sebenarnya, cukup hanya bermodalkan [Terminal](https://en.wikipedia.org/wiki/Terminal_\(macOS\)). Untuk *posterity*, saya akan mencatatnya disini.
+Setelah sempat putus asa pada [minggu lalu](https://blog.sua.ist/whabitsta), berkat keajaiban [LLM](https://en.wikipedia.org/wiki/Large_language_model) kini saya telah menemukan cara untuk menonaktifkan pemutakhiran otomatis [Bitwarden](https://bitwarden.com/). Urutan langkahnya sederhana saja sebenarnya, cukup hanya bermodalkan [Terminal](https://en.wikipedia.org/wiki/Terminal_\(macOS\)). Untuk *posterity*, saya akan mencatatnya disini.
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1756196970817/acb7a134-720b-4e4a-a98c-55d3d2dabca2.png align="center")
 
