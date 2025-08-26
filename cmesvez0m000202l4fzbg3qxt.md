@@ -12,6 +12,6 @@ Saya suka pakai [Brackets](https://en.wikipedia.org/wiki/Brackets_\(text_editor\
 
 ([sumber gambar](https://collections.artsmia.org/art/40983/blickensderfer-6-typewriter-george-c-blickensderfer))
 
-Tidak butuh waktu lama bagi saya untuk segera terjerembab masuk ke dalam lubang kelinci, dan sayapun berakhir meng*install* sejumlah aplikasi penyunting <s>kode</s> teks yang tersedia gratis atau *<s>open source</s>* sumber terbuka, yakni [CotEditor](https://coteditor.com/), [Phoenix Code](https://phcode.io), [Pulsar](https://pulsar-edit.dev/), [SubEthaEdit](https://subethaedit.net/), [TextMate](https://macromates.com/) dan [Zed](https://zed.dev/).
+Tidak butuh waktu lama bagi saya untuk segera terjerembab masuk ke dalam lubang kelinci, dan sayapun berakhir meng*install* sejumlah aplikasi penyunting <s>kode</s> teks yang tersedia gratis dan/atau *<s>open source</s>* sumber terbuka, yakni [CotEditor](https://coteditor.com/), [Phoenix Code](https://phcode.io), [Pulsar](https://pulsar-edit.dev/), [SubEthaEdit](https://subethaedit.net/), [TextMate](https://macromates.com/) dan [Zed](https://zed.dev/).
 
 ([sua](https://sua.ist))
