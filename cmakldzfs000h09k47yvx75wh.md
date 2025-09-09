@@ -18,5 +18,7 @@ NLF, atau singkatan pribadi saya untuk frase *«*[*Nothing Lasts Forever*](https
     
 * [Lnklst.](https://blog.sua.ist/lnklst) RIP Tumblr Linklist.
     
+* [Dsbl Fntbs Pdts](https://blog.sua.ist/dsbl-fntbs-pdts). RIP FontBase Desktop.
+    
 
 ([sua](https://sua.ist))
