@@ -16,6 +16,6 @@ Kali ini ia mengabarkan tentang sebuah situs baru bernama [typo.so](https://typo
 
 *So, instantly, I’m like, what? Another obscure site?* Lalu, tak lama kemudian, *okay, fine.* Kalau memang <s>cocok</s> gratis, boleh <s>datang ke rumah</s> *ikutan* latah. Tak lama berselang, kini koleksi tautan [*obscure sites*](https://blog.sua.ist/bscr-sts) saya telah bertambah satu lagi, yakni [typo.so/ofisia](https://typo.so/ofisia). Lumayan, jumlah karakternya relatif cukup pendek pula jika dibandingkan dengan tiga URL sebelumnya.
 
-(baca [Part I](https://blog.sua.ist/bscr-sts))
+(baca [Part I](https://blog.sua.ist/bscr-sts), [Part III](https://blog.sua.ist/bscr-sts-part-iii))
 
 ([sua](https://sua.ist))
