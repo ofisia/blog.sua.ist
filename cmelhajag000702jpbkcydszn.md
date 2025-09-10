@@ -18,6 +18,6 @@ Sejauh ini, <s>ini yang paling jauh,</s> saya telah mengoleksi tiga [*permalink*
 
 Dengan ditulisnya paragraf keempat pada entri ini, mari kita semua berdoa agar ketiga *<s>permalink</s>* *startup* tersebut tetap langgeng sentosa [*forever and ever*](https://genius.com/David-bowie-heroes-lyrics). Supaya semakin melegenda [*domain authority*](https://en.wikipedia.org/wiki/Domain_authority)\-nya, dan supaya saya senantiasa gembira ria sebab ikut serta mendompleng sebagai salah satu *early adopter* mereka. *May* [*god help us all*](https://youtu.be/cql2MmxZby8?si=2bWEV2CpBXKSar8D&t=21)*, amen.*
 
-(baca [Part II](https://blog.sua.ist/bscr-sts-part-ii))
+(baca [Part II](https://blog.sua.ist/bscr-sts-part-ii), [Part III](https://blog.sua.ist/bscr-sts-part-iii))
 
 ([sua](https://sua.ist))
