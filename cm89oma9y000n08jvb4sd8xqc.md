@@ -93,4 +93,6 @@ Adapun alat-alat bantu dan langkah-langkah yang saya tempuh adalah sebagai berik
     Baris *tag* HTML diatas bisa langsung *cap cus* saya salin tempel ke Tumblr, *publish*, kemudian berangkat tidur dengan nyenyak tanpa *kepikiran*.
     
 
+(baca [Part II](https://blog.sua.ist/1000-part-ii))
+
 ([sua)](https://sua.ist)
