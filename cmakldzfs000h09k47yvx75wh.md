@@ -20,5 +20,7 @@ NLF, atau singkatan pribadi saya untuk frase *«*[*Nothing Lasts Forever*](https
     
 * [Dsbl Fntbs Pdts](https://blog.sua.ist/dsbl-fntbs-pdts). RIP FontBase Desktop.
     
+* [Charlie Victor (Part II)](https://blog.sua.ist/charlie-victor-part-ii). RIP Read.cv x Working Not Working.
+    
 
 ([sua](https://sua.ist))
