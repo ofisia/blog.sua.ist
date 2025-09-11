@@ -10,7 +10,7 @@ slug: 20210831
 
 (tangkapan layar halaman [Menu](/menu), [Links](/links), dan [More Links](/more-links))
 
-Atas nama *obsessive compulsive disorder*—iasa disingkat [OCD](https://en.wikipedia.org/wiki/Obsessive%E2%80%93compulsive_disorder)—malam ini saya menambahkan satu lagi halaman baru, judulnya ‹[**More Links**](/more-links),› berisi daftar tautan yang sedikit lebih lengkap dari halaman yang sudah ada sebelumnya, yakni halaman ‹[**Links**](/links).›
+Atas nama *obsessive compulsive disorder*—biasa disingkat [OCD](https://en.wikipedia.org/wiki/Obsessive%E2%80%93compulsive_disorder)—malam ini saya menambahkan satu lagi halaman baru, judulnya ‹[**More Links**](/more-links),› berisi daftar tautan yang sedikit lebih lengkap dari halaman yang sudah ada sebelumnya, yakni halaman ‹[**Links**](/links).›
 
 Secara teknis, pengaturan kedua halaman tersebut sama-sama saya tetapkan sebagai *hidden*, sehingga tidak muncul di hasil kolom pencarian *onsite*, maupun di [*<s>search engine results page</s>*](https://en.wikipedia.org/wiki/Search_engine_results_page) halaman hasil mesin pencarian.
 
