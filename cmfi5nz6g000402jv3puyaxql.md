@@ -22,4 +22,6 @@ Wujud konkret dari aspirasi massa tertuang pada sejumlah poin yang bertajuk «[1
 
 %[https://www.instagram.com/ofisia.name/reel/DOJdvDaE-A6/] 
 
+Entri ini tersedia pula dalam versi [bahasa Inggris](https://medium.com/jimmy-ofisia/medium-com-jimmy-ofisia-is-equal-to-blog-sua-ist-77d9f2d17981).
+
 ([sua](https://sua.ist))
