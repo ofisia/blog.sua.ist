@@ -14,7 +14,7 @@ Beberapa bulan lalu saya mengunjungi Balai Pemuda untuk menyaksikan suatu acara,
 
 Tadi malam salah satu jalan utama dekat kediaman kami ditutup, sebuah panggung wayang kulit didirikan di tengah jalan, letaknya sekitar beberapa puluh meter ke arah selatan dari gerbang balai kelurahan. Saya bukan penggemar wayang kulit, apalagi ketika acaranya—seringkali—digelar dan berlangsung hingga larut malam.
 
-Akan tetapi tadi malam adalah sebuah pengecualian, karena sekali lagi istri saya kembali menjadi sangat antusias, karena selain menampilkan sang dalang, tiga sinden, serta beberapa belas pemain gamelan, akan dihadirkan pula bintang tamu istimewa, yang tak lain dan tak bukan adalah, Kartolo *cum suis*. Tepatnya, beliau tampil bersama Kastini dan Dewi Triyanti, alias sang istri dan putri sulung, *respectively*.
+Akan tetapi tadi malam adalah sebuah pengecualian, karena sekali lagi istri saya kembali menjadi sangat antusias, karena selain menampilkan sang dalang, tiga sinden, serta beberapa belas pemain gamelan, akan dihadirkan pula bintang tamu istimewa, yang tak lain dan tak bukan adalah, Kartolo *cum suis*. Tepatnya, beliau tampil bersama Kastini dan Dewi Triyanti, alias sang istri dan putri bungsu, *respectively*.
 
 Kalau saya tidak salah ingat, acara berakhir pada sekitar jam satu atau dua malam. Kaki saya pegal karena berdiri hampir sepanjang acara, gegara tidak kebagian tempat duduk, namanya juga acara gratis, jadi maklum saja. Kami berdua mengantuk sekaligus lapar, untungnya ada salah satu gerai waralaba ayam goreng yang buka—hampir—dua puluh empat jam di arah jalan pulang. Siapa yang dapat menolak hasrat makan *junk food* sebelum tidur? Saya tentu tidak.
 
