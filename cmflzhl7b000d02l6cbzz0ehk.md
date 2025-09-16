@@ -6,7 +6,7 @@ slug: discordnect
 
 ---
 
-Beberapa hari lalu saya *stumbled upon* sebuah komunitas daring yang berbasis *web* namun dapat pula diakses lewat aplikasi [gawai](https://id.wikipedia.org/wiki/Gawai) bernama [Circle](https://circle.so/). Sebenarnya bukan hal baru, sebelumnya sudah lumrah jika forum daring melangsungkan komunikasi kolektif mereka lewat aplikasi gawai atau [mejantara](https://id.wikipedia.org/wiki/Komputer_mejantara), misalnya [Slack](https://en.wikipedia.org/wiki/Slack_\(software\)) atau [Discord](https://en.wikipedia.org/wiki/Discord), salah dua yang populer diantara banyak opsi lainnya.
+Beberapa hari lalu saya *stumbled upon* sebuah komunitas daring yang berbasis *web* namun dapat pula diakses lewat aplikasi [gawai](https://id.wikipedia.org/wiki/Gawai) bernama [Circle](https://circle.so/). Sebenarnya bukan hal baru, sebelumnya sudah lumrah jika forum daring melangsungkan komunikasi kolektif mereka lewat aplikasi gawai atau [mejantara](https://id.wikipedia.org/wiki/Komputer_mejantara), misalnya [Slack](https://en.wikipedia.org/wiki/Slack_\(software\)) atau [Discord](https://en.wikipedia.org/wiki/Discord), salah dua yang populer diantara pelbagai opsi lainnya.
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1757992459615/00880419-94ac-4bac-92ba-c951e94f8149.png align="center")
 
