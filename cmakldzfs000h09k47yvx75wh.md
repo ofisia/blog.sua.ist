@@ -22,5 +22,7 @@ NLF, atau singkatan pribadi saya untuk frase *«*[*Nothing Lasts Forever*](https
     
 * [Charlie Victor (Part II)](https://blog.sua.ist/charlie-victor-part-ii). RIP Read.cv x Working Not Working.
     
+* [Discordnect](https://blog.sua.ist/discordnect). RIP Discord Desktop.
+    
 
 ([sua](https://sua.ist))
