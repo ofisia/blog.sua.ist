@@ -18,7 +18,7 @@ B)
 https://www.instagram.com/share/BAK0bjeZF5
 ```
 
-Meskipun terlihat remeh, sepertinya hal in berdampak pada API yang biasa digunakan untuk berkomunikasi dengan aplikasi pihak ketiga. Singkat cerita, hal ini menyebabkan aplikasi [Tumblr](http://tumblr.com/) yang biasanya dapat menampilkan gambar *thumbnail* dari tiap *post* Instagram yang saya bagikan, kini hanya dapat menampilkan *plain text* dari URL yang dibagikan.
+Meskipun terlihat remeh, sepertinya hal in berdampak pada API yang biasa digunakan untuk berkomunikasi dengan aplikasi pihak ketiga. Singkat cerita, hal ini menyebabkan aplikasi [Tumblr](http://tumblr.com/)—*a.k.a.* tulang punggung dari situs [repost.dsgn.lv](https://repost.dsgn.lv)—yang biasanya dapat menampilkan gambar *thumbnail* dari tiap *post* Instagram yang saya bagikan, kini hanya dapat menampilkan *plain text* dari URL yang dibagikan.
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1758448047806/b2321fed-34cb-464c-aa69-91c4dfbf9497.jpeg align="center")
 
