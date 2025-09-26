@@ -6,7 +6,7 @@ slug: 20250926
 
 ---
 
-*«I’m not a perfect person. There's many things I wish I didn't do.»* Begitulah bunyi bait awal lirik lagu *‹*[*The Reason*](https://genius.com/Hoobastank-the-reason-lyrics)*›* milik [Hoobastank](https://en.wikipedia.org/wiki/Hoobastank) yang relatif populer pada zamannya. Tak ubahnya situasi yang terjadi pada entri sebelumnya, beberapa hari ini saya kembali terokupasi oleh OCD akut yang—walaupun sangat *time consuming* dan *pain staking*—membuahkan hasil berupa pemutakhiran pada tiga entri [type.dsgn.lv](https://type.dsgn.lv), yakni [/03](https://type.dsgn.lv/03), [/04](https://type.dsgn.lv/04) dan [/05](https://type.dsgn.lv/05).
+*«I’m not a perfect person. There's many things I wish I didn't do.»* Begitulah bunyi bait awal lirik lagu *‹*[*The Reason*](https://genius.com/Hoobastank-the-reason-lyrics)*›* milik [Hoobastank](https://en.wikipedia.org/wiki/Hoobastank) yang relatif populer pada zamannya. Tak ubahnya situasi yang terjadi pada [entri sebelumnya](https://blog.sua.ist/20250923), beberapa hari ini saya kembali terokupasi oleh OCD akut yang—walaupun sangat *time consuming* dan *pain staking*—membuahkan hasil berupa pemutakhiran pada tiga entri [type.dsgn.lv](https://type.dsgn.lv), yakni [/03](https://type.dsgn.lv/03), [/04](https://type.dsgn.lv/04) dan [/05](https://type.dsgn.lv/05).
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1758903611503/e91c049d-479e-4a4a-bf5c-283d5ebcf1c8.png align="center")
 
