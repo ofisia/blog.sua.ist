@@ -24,5 +24,7 @@ NLF, atau singkatan pribadi saya untuk frase *«*[*Nothing Lasts Forever*](https
     
 * [Discordnect](https://blog.sua.ist/discordnect). RIP Discord Desktop.
     
+* [Muufor](https://blog.sua.ist/muufor). RIP Muut x Formspree custom redirect.
+    
 
 ([sua](https://sua.ist))
