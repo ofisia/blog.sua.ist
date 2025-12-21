@@ -14,4 +14,6 @@ Saya belum membagikan tautan halaman tersebut, tapi Anda dapat menemukannya send
 
 Saya sempat membagikan beberapa adegan *behind the scene* lewat *story* atau *reels* Instagram, tetapi tentu saja saya terlalu malas meng-*embed* mereka dalam entri ini. Lagipula akun saya hanyalah sekadar *a click away* di [instagr.am/ofisia.name](http://instagr.am/ofisia.name) dan siap dikunjungi kapanpun jika Anda penasaran, tentu saja jika Anda tidak terlalu malas seperti saya.
 
+Entri ini tersedia pula dalam versi [bahasa Inggris](https://ofisia.medium.com/legotype-stop-motion-e8e27b69e6af).
+
 ([sua](https://sua.ist))
