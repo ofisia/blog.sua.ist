@@ -26,6 +26,6 @@ Izinkan saya menghiasai paragraf terakhir ini dengan sesuatu yang sedikit filoso
 ⁽⁴⁾ 🌐 [https://archive.org/details/becoming-a-graphic-and-digital-designer-pdfdrive/page/n10/mode/1up](https://archive.org/details/becoming-a-graphic-and-digital-designer-pdfdrive/page/n10/mode/1up)  
 ⁽⁵⁾ 🌐 [https://shapeofdesignbook.com/chapters/10-gifts-and-giving](https://shapeofdesignbook.com/chapters/10-gifts-and-giving)
 
-Entri ini tersedia pula dalam versi [bahasa Inggris](https://www.linkedin.com/feed/update/urn:li:activity:7409933208814850048/).
+Entri ini diterbitkan silang dari [LinkedIn](https://www.linkedin.com/posts/ofisia_there-are-many-types-of-great-designers-and-activity-7409933208814850048-_NeH) dan tersedia pula dalam versi [bahasa Inggris](https://medium.com/jimmy-ofisia/20251225-d8a452568c4a).
 
 ([sua](https://sua.ist))
