@@ -6,7 +6,7 @@ slug: 20251230
 
 ---
 
-Hari ini, tanggal tiga puluh bulan desember tahun dua ribu dua puluh lima, akun Instagram saya—[instagr.am/ofisia.name](https://instagr.am/ofisia.name)— dinonaktifkan sebab saya terlalu banyak membagikan otw.sua.ist di Threads. Kesalahan terbesar saya adalah melupakan bahwa Threads dan Instagram sama-sama dimiliki oleh Meta, yang kebetulan belakangan semakin ketat dalam menangani penyalahgunaan.
+Hari ini, tanggal tiga puluh bulan desember tahun dua ribu dua puluh lima, akun Instagram saya—[instagr.am/ofisia.name](https://instagr.am/ofisia.name)— dinonaktifkan sebab saya terlalu banyak membagikan tautan [otw.sua.ist](https://otw.sua.ist) di Threads. Kesalahan terbesar saya adalah melupakan bahwa Threads dan Instagram sama-sama dimiliki oleh Meta, yang kebetulan belakangan semakin ketat dalam menangani penyalahgunaan.
 
 Sebelumnya saya pernah menyaksikan sendiri bahkan akun rekan-rekan—diantaranya [studio desain](https://instagram.com/sciencewerk) [bung Danis](https://instagram.com/danis.sie) dan [bung Adji](https://instagram.com/adjiherdanto)—dengan riwayat rekam jejak yang wajar dan *legit* tetap saja tidak luput ditandai sebagai *spam*. Saya ingat betul waktu itu bung Adji mengisahkan bahwa seingatnya dia hanya sekadar membagikan informasi sebuah konser kepada kawannya lewat pesan pribadi Instagram, padahal akun bung Adji sudah centang biru organik, alias centang biru versi OG yang didapatkan tanpa membayar biaya langganan Meta.
 
