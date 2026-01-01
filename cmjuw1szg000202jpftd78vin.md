@@ -10,7 +10,7 @@ Melanjutkan hikayat pada [entri sebelumnya](https://blog.sua.ist/20251230), akhi
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1767238265901/9f6d5535-da03-4c20-a56e-a1f8626f2bea.jpeg align="center")
 
-([sumber gambar](https://instagra.am/ofisiadotname))
+([sumber gambar](https://instagr.am/ofisiadotname))
 
 Pekerjaan rumah paling berat—dan sudah tentu membosankan—selanjutnya adalah berburu seluruh keberadaan tautan akun Instagram lama tersebut lalu menggantinya dengan tautan edisi terbaru. Ketika baru saja saya ikuti kembali, seorang rekan yang humoris bahkan bertanya apakah akun lama saya kena grebek pemerintah, lalu mengemukakan *«frasa new year, new me»* pada percakapan selanjutnya. Barangkali memang benar, saatnya untuk *force shut* dan *reboot*, atau bahkan *fresh install*. Mohon maaf jika rujukan pada kalimat barusan terlampau *geeky*.
 
