@@ -12,6 +12,6 @@ Melanjutkan hikayat pada [entri sebelumnya](https://blog.sua.ist/20251230), akhi
 
 ([sumber gambar](https://instagr.am/ofisiadotname))
 
-Pekerjaan rumah paling berat—dan sudah tentu membosankan—selanjutnya adalah berburu seluruh keberadaan tautan akun Instagram lama tersebut lalu menggantinya dengan tautan edisi terbaru. Ketika baru saja saya ikuti kembali, seorang rekan yang humoris bahkan bertanya apakah akun lama saya kena grebek pemerintah, lalu mengemukakan *«frasa new year, new me»* pada percakapan selanjutnya. Barangkali memang benar, saatnya untuk *force shut* dan *reboot*, atau bahkan *fresh install*. Mohon maaf jika rujukan pada kalimat barusan terlampau *geeky*.
+Pekerjaan rumah paling berat—dan sudah tentu membosankan—selanjutnya adalah berburu seluruh keberadaan tautan akun Instagram lama tersebut lalu menggantinya dengan tautan edisi terbaru. Ketika baru saja saya ikuti kembali, seorang rekan yang humoris bahkan bertanya apakah akun lama saya kena grebek pemerintah, lalu mengemukakan frasa *«new year, new me»* pada percakapan selanjutnya. Barangkali memang benar, saatnya untuk *force shut* dan *reboot*, atau bahkan *fresh install*. Mohon maaf jika rujukan pada kalimat barusan terlampau *geeky*.
 
 ([sua](https://sua.ist))
