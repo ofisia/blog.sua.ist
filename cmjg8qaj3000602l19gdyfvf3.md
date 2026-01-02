@@ -8,7 +8,7 @@ slug: lgtyp-stp-mtn
 
 Di era kecerdasan buatan ini, dimana sebuah gambar dapat diciptakan dalam hitungan menit bahkan detik dengan *prompt* yang tepat, saya malah menyusahkan diri sendiri dengan memotret sekian ratus foto Lego ([Legotype](https://blog.sua.ist/legotype)?) untuk dijadikan *asset* animasi *stop motion* tipografi berbasis *scroll* di sebuah situs satu halaman.
 
-Saya belum membagikan tautan halaman tersebut, tapi Anda dapat menemukannya sendiri pada video di bawah jika mata Anda jeli. Saya sudah kehilangan jejak berapa lama waktu pengerjaannya sebab kegiatan nirfaedah ini hanya dapat saya lakukan secara *on and off* dengan jadwal yang serba spontan *uhuy*, barangkali efektif dimulai sejak awal bulan lalu.
+Saya belum membagikan tautan halaman tersebut, tapi Anda dapat menemukannya sendiri pada video di bawah jika mata Anda jeli—update, it’s [otw.sua.ist](https://otw.sua.ist). Saya sudah kehilangan jejak berapa lama waktu pengerjaannya sebab kegiatan nirfaedah ini hanya dapat saya lakukan secara *on and off* dengan jadwal yang serba spontan *uhuy*, barangkali efektif dimulai sejak awal bulan lalu.
 
 Seseorang tentu akan bertanya-tanya, apakah gerangan rasionalisasi melangsungkan kegiatan serba analog di zaman serba digital ini? Terus terang, barangkali jawabannya memang tidak ada yang rasional mengenai hal ini. Inilah efek samping yang akan Anda dapatkan apabila Anda terlampau sering terpapar Sagmeister dan Gondry ketika masih belia, lugu dan belum mampu berpikir jernih.
 
