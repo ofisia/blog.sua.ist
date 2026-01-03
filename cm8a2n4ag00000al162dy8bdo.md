@@ -6,7 +6,7 @@ slug: 20161221
 
 ---
 
-Bukankah rangkaian aksara linimasa adalah perwakilan lisan dan benakmu? Bukankah tautan yang kau bagikan adalah persetujuanmu? Bukankah masing-masing kita mafhum bahwa segala pertanggung jawaban setia mengiringi baik dini atau nanti? Lalu kenapa tak kau saji dan bagi suatu yang berarti, yang tak menghakimi, yang tak melaknat dan satir menyakiti?
+zzzBukankah rangkaian aksara linimasa adalah perwakilan lisan dan benakmu? Bukankah tautan yang kau bagikan adalah persetujuanmu? Bukankah masing-masing kita mafhum bahwa segala pertanggung jawaban setia mengiringi baik dini atau nanti? Lalu kenapa tak kau saji dan bagi suatu yang berarti, yang tak menghakimi, yang tak melaknat dan satir menyakiti?
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1742034948151/c427206f-2ed9-4f8e-bcd6-742cf0bba754.png align="left")
 
