@@ -6,7 +6,7 @@ slug: selamat-natal
 
 ---
 
-zzzSeorang kawan mengingatkan saya untuk bertoleransi dengan benar, sambil mengernyitkan dahi saya mencoba memahami kata ‹benar› versi yang ia amini.
+Seorang kawan mengingatkan saya untuk bertoleransi dengan benar, sambil mengernyitkan dahi saya mencoba memahami kata ‹benar› versi yang ia amini.
 
 Setelah meraba-raba apakah gerangan yang dia maksud, pada akhirnya saya paham ternyata ini menyoal soal halal haram tahunan terkait ucapan selamat natal.
 
