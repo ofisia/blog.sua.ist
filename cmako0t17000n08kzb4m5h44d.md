@@ -6,7 +6,7 @@ slug: rumah-baru
 
 ---
 
-zzzSaya berkali-kali salah dalam melafalkan kata *asphyxiates*, hingga beberapa detik kemudian suami saya menimpali «*ph* dilafalkan sama seperti saat kita mengucap fotografi atau fisika.»
+Saya berkali-kali salah dalam melafalkan kata *asphyxiates*, hingga beberapa detik kemudian suami saya menimpali «*ph* dilafalkan sama seperti saat kita mengucap fotografi atau fisika.»
 
 Agar lebih afdal saya pun membuka aplikasi kamus yang ter*install* dalam gawai saya dan menekan ikon *speaker*, setelah *audio* berbunyi dengan spontan saya menganggukkan kepala. Namun saya juga iseng, penasaran apa yang akan saya temukan jika saya menyalin tempel kata tersebut ke mesin pencarian. Apakah <s>sesederhana</s> sesingkat terjemahan dalam bahasa Indonesia yang hanya tersaji dalam dua kata yaitu sesak nafas?
 
