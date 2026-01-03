@@ -6,7 +6,7 @@ slug: 201901
 
 ---
 
-zzzSebagai seorang proletar idealnya saya mendedikasikan waktu 40 jam per minggu untuk bekerja, namun belakangan ini karena satu dan banyak hal membuat saya menghabiskan lebih dari 48 jam per minggu.
+Sebagai seorang proletar idealnya saya mendedikasikan waktu 40 jam per minggu untuk bekerja, namun belakangan ini karena satu dan banyak hal membuat saya menghabiskan lebih dari 48 jam per minggu.
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1742034786209/8b6b62bd-ee2f-4499-a2f3-2366f4e734a8.png align="left")
 
