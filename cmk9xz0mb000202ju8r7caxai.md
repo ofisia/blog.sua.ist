@@ -12,6 +12,6 @@ Hari ini saya memutakhirkan gambar profil serta gambar *banner* akun LinkedIn sa
 
 (sumber gambar [kiri](https://www.linkedin.com/in/ofisia), [tengah](https://ofisia.name/cv) dan [kanan](https://ofisia.name/cv/p))
 
-Saya juga memutakhirkan [dokumen](https://ofisia.name/cv)\-[dokumen](https://ofisia.name/cv/p) *curriculum vitae slash résumé* saya setelah mendapati bahwa daftar riwayat bekerja saya masih berbeda dengan versi terkini yang tertera di [akun LinkedIn](https://www.linkedin.com/in/ofisia) saya. Saya lupa, saya rasa sebelumnya sudah menyunting bagian tersebut pada bulan Desember tahun dua ribu dua puluh lima yang lalu, namun ternyata salah. Sebuah pelajaran agar jangan terlalu sering main perasaan. Maafkan *jokes receh* saya. Baiklah, saatnya memeriksa ulang hal-hal lain yang barangkali masih terlewatkan.
+Saya juga memutakhirkan dokumen-dokumen *curriculum vitae slash résumé* saya—yakni [ofisia.name/cv](https://ofisia.name/cv) serta [ofisia.name/cv/p](https://ofisia.name/cv/p)—setelah mendapati bahwa daftar riwayat bekerja saya masih berbeda dengan versi terkini yang tertera di [akun LinkedIn](https://www.linkedin.com/in/ofisia) saya. Saya lupa, saya rasa sebelumnya sudah menyunting bagian tersebut pada bulan Desember tahun dua ribu dua puluh lima yang lalu, namun ternyata salah. Sebuah pelajaran agar jangan terlalu sering main perasaan. Maafkan *jokes receh* saya. Baiklah, saatnya memeriksa ulang hal-hal lain yang barangkali masih terlewatkan.
 
 ([sua](https://sua.ist))
