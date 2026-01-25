@@ -10,7 +10,7 @@ Sejak purna tugas dari ritme kejar tayang kapitalis, saya berusaha menemukan rit
 
 24 jam dalam sehari idealnya terbagi atas 3 partisi, 8 jam bekerja, 8 jam akses kehidupan sosial dan selebihnya untuk istirahat. Dulu saat alokasi waktu untuk bekerja begitu mendominasi diantara yang lain, saya bersumpah serapah akan berkongsi dengan apapun untuk bisa membalas dendam demi keruntuhan kedigdayaannya.
 
-Kini saat kesempatan itu tiba, hal yang pertama saya lakukan adalah berterima kasih pada Sir Tim Berners-Lee «TimBL», karenanya saya memiliki partner kongsi yang luar biasa kooperatif. 
+Kini saat kesempatan itu tiba, hal yang pertama saya lakukan adalah berterima kasih pada Sir Tim Berners-Lee «TimBL», karenanya saya memiliki partner kongsi yang luar biasa kooperatif.
 
 Internet, semoga ia tak berkongsi menjadikan saya militan atau penganut aliran *never ending scrolling*, tapi ia berhasil menyakinkan saya untuk menjadi pengagum konten arus samping «*sidestream».*
 
@@ -32,6 +32,4 @@ Bukan tanpa alasan saya bisa berkata demikian. Walaupun tak lama, saya pernah de
 
 Maka serupa selebriti pemengaruh yang menyokong sebuah produk, tak ada alasan bagi saya untuk tak membagi, tak menggunakan *word of mouth,* dan melalui kemewahan yang telah diupayakan oleh TimBL ini tak lengkap kiranya jika saya tak menebar undangan untuk berkunjung ke rumah Rahim dan Janin.
 
----
-
-​​
+([ist](https://sua.ist))​​
