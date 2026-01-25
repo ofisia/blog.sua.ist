@@ -19,3 +19,5 @@ Pada 1 Muharram atau malam satu suro, lazimnya akan ada tetangga yang ater-ater 
 Melengkapi himbauan bu Tejo bahwasannya dadi wong iki ya mbok sing solutip, maka tak ada bubur suro pun tak apa, sak anane wae pokok eksis ndek-ndekan demi konten 🤭🤭🤭.
 
 Sukses dieksekusi tumis sawi pagoda jamur, dadar tomat telur, serta kekian udang untuk menyambut tahun baru Islam 1442 H.
+
+([ist](https://sua.ist))
