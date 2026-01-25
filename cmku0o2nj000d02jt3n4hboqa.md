@@ -2,7 +2,7 @@
 title: "Ayu Setyo Pertiwi’s Blog Entries."
 datePublished: Sun Jan 25 2026 17:32:45 GMT+0000 (Coordinated Universal Time)
 cuid: cmku0o2nj000d02jt3n4hboqa
-slug: ayu-setyo-pertiwis-blog-entries
+slug: ayu
 
 ---
 
