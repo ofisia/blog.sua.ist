@@ -14,8 +14,10 @@ Dari yang sekali atau dua kali itu kini aku merasakannya, dan kau tau betapa men
 
 Kala rasa menyesakkan itu hadir, sapaan kepadamu bukanlah assalamualaikum namun berganti innalillahi wa inailaihi rojiun.
 
-Sampailah masa ini padaku, terjadi di depan mata telanjangku, singkat dan brutal 😢 
+Sampailah masa ini padaku, terjadi di depan mata telanjangku, singkat dan brutal 😢
 
 Dan duka ini kini padaku,  aku berduka, aku tidak sedang baik-baik saja. Namun biarkan aku menikmati-nya hingga tiba suatu masa duka ini terasa indah dan aku kembali baik-baik saja.
 
 Sampailah masa ini padaku, kala sapaan assalamualaikum berganti innalillahi wa inailaihi rojiun.
+
+([ist](https://sua.ist))
