@@ -28,11 +28,11 @@ Di lingkungan tempat tinggal saya contohnya, gambaran hijrah termaktub sempurna 
 
 Perkara muncul tiap kali PRT-nya tergopoh-gopoh berusaha menuntaskan apa yang dititahkannya. Seakan 24 jam, 7 hari hidup hanya untuk melayani. Ini hanya contoh *lho* ya, jangan *digebyah uyah* (sama rata) semua abah dan umi tabiatnya seperti itu.
 
-Tapi kita juga tidak mungkin mengingkari bahwa praktik-praktik seperti itu, jamak kita temui bukan? 
+Tapi kita juga tidak mungkin mengingkari bahwa praktik-praktik seperti itu, jamak kita temui bukan?
 
 Hampir seluruh permasalahan yang dilarang dalam Islam selalu bersinggungan dengan aspek sosial. Praktik-praktik tersebut dilarang tentu saja karena mengandung unsur eksploitatif yang berdampak menyengsarakan, menyusahkan kelompok tertentu (marjinal).
 
-Dalam wacana dunia kapitalis global hari ini, yang sarat akan eksploitasi, bagi saya hijrah akan terasa *so yesterday* jika kita hanya bergelut di seputaran mencari alternatif pekerjaan yang semata-mata meniadakan riba. 
+Dalam wacana dunia kapitalis global hari ini, yang sarat akan eksploitasi, bagi saya hijrah akan terasa *so yesterday* jika kita hanya bergelut di seputaran mencari alternatif pekerjaan yang semata-mata meniadakan riba.
 
 Bagaimana jika kita memilih menu *combo double,* selain riba libas juga praktik eksploitatifnya!
 
@@ -40,7 +40,7 @@ Gencar dan kritislah juga ketika kita melihat praktik-praktik tersebut, masukkan
 
 *Ndak* usah jauh-jauh hijrahnya, mulailah dari yang terdekat. Pekerja Rumah Tangga (PRT) misalnya, sudahkah kita memberikan batasan waktu yang jelas akan jam kerja mereka? Jangan mentang-mentang kita bayar gajinya, perut kita lapar tengah malam, gedor kamar PRT buat nyuruh bikin mie instan. Atau sudahkah kita bijak menimbang beban pekerjaan dengan upah yang kita berikan? Jangan hanya kewajiban saja yang bertumpuk tapi abai akan hak PRT.
 
-Atau jika anda-anda sekalian adalah pengampu kebijakan, direktur korporasi, manager bank, atau apapun jabatan anda, alih-alih berhenti bekerja dengan alasan riba, lebih baik gunakan kewenangan anda untuk menciptakan kebijakan, peraturan dan segala turunannya berdasar atas kesejahteraan pekerja. 
+Atau jika anda-anda sekalian adalah pengampu kebijakan, direktur korporasi, manager bank, atau apapun jabatan anda, alih-alih berhenti bekerja dengan alasan riba, lebih baik gunakan kewenangan anda untuk menciptakan kebijakan, peraturan dan segala turunannya berdasar atas kesejahteraan pekerja.
 
 Siapa pun dan apapun pekerjaan kita, selama kita masih berpijak di bumi yang sama, kita pun memiliki jatah waktu yang sama dalam satu rotasi bumi yaitu 24 jam.
 
@@ -49,3 +49,5 @@ Dalam 24 jam tersebut idealnya terbagi atas 8 jam kerja, 8 jam berkehidupan sosi
 Tenang dan jangan salah pengertian, saya tidak hendak menyetujui praktek riba *lho* ya, tidak juga anti pakaian *syar'i*. Seperti yang saya sampaikan diatas saya menawarkan perkara tandingan, supaya atmosfer hijrah lebih bisa punya banyak wajah.
 
 Tapi perlu diingat juga, jika sudah punya banyak wajah dan rupa, jangan *kebangetan* kalau mau kampanye, apalagi mengeksploitasi agama lewat ayat dan dalil-dalilnya.
+
+([ist](https://sua.ist))
