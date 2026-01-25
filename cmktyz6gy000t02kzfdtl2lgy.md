@@ -25,3 +25,5 @@ Hari ini sejatinya adalah pemberdayaan bukan sekedar peringatan apalagi tuntutan
 Berterima kasih atas semua apresiasi namun semoga karenanya engkau tiada henti melakukan refleksi serta evaluasi.
 
 Selamat hari pemberdayaan perempuan untuk jiwa-jiwa yang tak pernah berhenti mengupayakan kebaikan.
+
+([ist](https://sua.ist))
