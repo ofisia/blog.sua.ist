@@ -21,3 +21,5 @@ Tetap jaga prokes dan hindari kerumunan.
 Virus keras kepala ini tetap abai meskipun kau berdalih meneladani keikhlasan Nabi Ibrahim, kepatuhan Nabi Ismail maupun kesabaran Siti Hajar.
 
 Kesalehan sosialmu tak kan menciderai kesalehan ritualmu 😍
+
+([ist](https://sua.ist))
