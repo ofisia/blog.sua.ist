@@ -43,3 +43,5 @@ Agustus 1982.
 Semoga tai-tai itu telah sempat memberikan nutrisi meskipun jauh dari standart gizi.
 
 <s>Sehat sehat</s> segera sehat Indonesiaku.
+
+([ist](https://sua.ist))
