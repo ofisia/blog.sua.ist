@@ -13,3 +13,5 @@ Namun sewindu terakhir asupan gendang telinga saya berubah haluan, band asuhan D
 Maka malam ini, ditemani udara sumuk bin ongkep Surabaya ketika Bryan Adams mendayu lewat have you ever really loved a women, saya cengar-cengir merasa ke-GR-an, berasa areknya lagi nyanyi buat saya.
 
 Tapi khayalan memang tak seindah kenyataan, eh jebule doi lagi asyik sendiri, ngisis depan kipas angin sambil tekan, tarik dan petik senar ukulele 🙈🙈🙈.
+
+([ist](https://sua.ist))
