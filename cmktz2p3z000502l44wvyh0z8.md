@@ -21,3 +21,5 @@ Saya menyimpannya cukup lama atau bahkan sangat-sangat lama hingga lambat laun s
 Kini ada atau tanpa lukisan cahaya itu saya berbahagia. Serta berharap adik saya tercintapun akan selalu bahagia dengan apa yang dipilihnya. Karena sebagaimana saya, diapun pasti telah melalui masa, berkompromi dengan nasib bahkan menjadi keras kepala luar biasa demi mengejar apa yang diyakininya.
 
 Entah kini atau esok hari semoga masing-masing dari kami mampu membingkai kebahagian dalam berbagai versi, serta saling mengangkat topi atas segala pencapaian-pencapaian kami.
+
+([ist](https://sua.ist))
