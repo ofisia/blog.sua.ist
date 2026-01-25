@@ -19,3 +19,5 @@ Gambaran saya mengenai sosok Kartolo tak pernah berubah, humoris sekaligus satir
 Namun layaknya semua hal dalam dunia ini yang ujungnya adalah ketiadaan meskipun dikarunia umur panjang, kondisi fisik Kartolo berada dalam fase tak terelakkan, kemampuan berjalan yang kian melambat dan tertatih, nafas yang mulai bernegoisasi dengan ritme irama jantung dan paru yang saling berkejar-kejaran dengan oksigen dan juga volume suara yang kerap kali bergetar saat mencapai pitch maksimal, entah sampai kapan tidak ada yang tahu Kartolo bisa hadir menghibur penggemarnya.
 
 Setali tiga uang dengan tulisan suami saya dengan judul yang sama dalam blog ini, bagi kami Basman dan Sapari adalah ludrukis legendaris idola kami. Dulu ketika weekend tiba suami saya kerap kali memutar berkas audio rekaman sandiwara radio dengan beragam alur cerita yang selalu out of the box yang membuat saya terpingkal-pingkal dan merasa menjadi arek Suroboyo seutuhnya hanya karena masih bisa mendengarkan Kartolo cum suis berkelar. Kini baik Basman dan Sapari sudah lama mangkat, namun untuk Kartolo semoga masih dapat selama mungkin maujud.
+
+([ist](https://sua.ist))
