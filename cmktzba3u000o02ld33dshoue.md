@@ -15,3 +15,5 @@ Selamat jalan dan berbahagia para syuhada anumerta kusuma bangsa.
 Selamat beristirahat KRI Nanggala 402.
 
 #Wira Ananta Rudira
+
+([ist](https://sua.ist))
