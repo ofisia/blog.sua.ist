@@ -12,6 +12,6 @@ Setelah kurang lebih satu minggu mempersiapkan materi kontennya, kemudian mencob
 
 ([sumber gambar](https://typenames.dsgn.lv))
 
-Saya telah menyiapkan pula sebuah fungsi PHP sederhana yang memungkinkan pengunjung membuka satu halaman acak dari seluruh daftar entri yang telah dipublikasikan di blog tersebut, yakni dengan cara menekan tombol ‹[Random](https://typenames.dsgn.lv/random)› di header, atau dengan mengunjungi URL [random.typenames.dsgn.lv](https://random.typenames.dsgn.lv) secara *manual*. Pada saat entri ini ditulis, sudah ada sembilan—dari sekitar tujuh puluh—*typeface* yang telah diterbitkan pada halaman depan ‹Typenames.› Jangan segan untuk berkunjung menyarankan koreksi, barangkali saja Anda menemukan informasi yang salah.
+Saya telah menyiapkan pula sebuah [fungsi](https://www.php.net/manual/en/function.rand.php) PHP sederhana yang memungkinkan pengunjung membuka satu halaman acak dari seluruh daftar entri yang telah dipublikasikan di blog tersebut, yakni dengan cara menekan tombol ‹[Random](https://typenames.dsgn.lv/random)› di header, atau dengan mengunjungi URL [random.typenames.dsgn.lv](https://random.typenames.dsgn.lv) secara *manual*. Pada saat entri ini ditulis, sudah ada sembilan—dari sekitar tujuh puluh—*typeface* yang telah diterbitkan pada halaman depan ‹Typenames.› Jangan segan untuk berkunjung menyarankan koreksi, barangkali saja Anda menemukan informasi yang salah.
 
 ([sua](https://sua.ist))
