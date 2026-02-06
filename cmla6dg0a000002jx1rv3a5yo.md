@@ -10,6 +10,6 @@ slug: 20260206
 
 ([sumber gambar](https://ayu.lv))
 
-Karena saat ini istri saya—[Ayu Setyo Pertiwi](https://ayu.lv/card)—sedang [#OpenToWork](https://linkedin.com/posts/ayuspertiwi_opentowork-activity-7423925273403957248-4hWt), hari ini saya menambahkan tautan menuju akun [LinkedIn](https://linkedin.com/in/ayuspertiwi) pada halaman depan situs pribadinya, yakni [ayu.lv](https://ayu.lv). Rasanya saya perlu pula menambahkan gambar Open Graph pada halaman kartu nama daring miliknya, yakni [ayu.lv/card](https://ayu.lv/card), namun sepertinya lain kali saja, [tidak hari ini](https://genius.com/Morgue-vanguard-kontra-muerta-lyrics).
+Karena saat ini istri saya—[Ayu Setyo Pertiwi](https://ayu.lv/card)—sedang [#OpenToWork](https://linkedin.com/posts/ayuspertiwi_opentowork-activity-7423925273403957248-4hWt), hari ini saya menambahkan tautan menuju akun [LinkedIn](https://linkedin.com/in/ayuspertiwi) pada halaman depan situs pribadinya, yakni [ayu.lv](https://ayu.lv). Rasanya saya perlu pula menambahkan gambar [Open Graph](https://ogp.me) pada halaman kartu nama daring miliknya, yakni [ayu.lv/card](https://ayu.lv/card), namun sepertinya lain kali saja, [tidak hari ini](https://genius.com/Morgue-vanguard-kontra-muerta-lyrics).
 
 ([sua](https://sua.ist))
