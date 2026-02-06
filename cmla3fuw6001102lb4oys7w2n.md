@@ -6,7 +6,7 @@ slug: typnms
 
 ---
 
-Setelah kurang lebih satu minggu mempersiapkan materi kontennya, kemudian mencobanya pada sebuah URL sementara, akhirnya kemarin saya memindahkan ‹Typenames› pada sebuah URL permanen, yakni [typenames.dsgn.lv](https://typenames.dsgn.lv). ‹Typenames› adalah blog sederhana yang mendokumentasikan topik yang sering diabaikan di bidang tipografi—kisah-kisah yang sebagian besar belum terungkap di balik [nama-nama *typeface*](https://typenames.dsgn.lv/about), seperti yang diceritakan oleh para perancang huruf yang menamainya.
+Setelah kurang lebih satu minggu mempersiapkan materi kontennya, kemudian mencobanya pada sebuah URL sementara, akhirnya kemarin saya memindahkan ‹Typenames› pada sebuah alamat permanen, yakni [typenames.dsgn.lv](https://typenames.dsgn.lv). ‹Typenames› adalah blog sederhana yang mendokumentasikan topik yang sering diabaikan di bidang tipografi—kisah-kisah yang sebagian besar belum terungkap di balik [nama-nama *typeface*](https://typenames.dsgn.lv/about), seperti yang diceritakan oleh para perancang huruf yang menamainya.
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1770334275510/01170295-e630-47c2-8503-85d130082f1a.png align="center")
 
