@@ -10,6 +10,6 @@ slug: lftd-wrld-clss
 
 (sumber gambar [kiri](https://world-class.design) dan [kanan](https://go-lifted.com))
 
-Setelah turut berpartisipasi menyumbangkan data pribadi saya di situs [flancer.work](https://flancer.work) pada [bulan Januari](https://blog.sua.ist/flncr-dt-wrk) dua ribu dua puluh enam yang lalu, hari ini saya kembali mengulangi kegiatan yang sama di situs [world-class.design](https://world-class.design/) dan [go-lifted.com](https://go-lifted.com/), yang ternyata merupakan [anak perusahaan](https://www.upwork.com/blog/introducing-lifted-an-upwork-company) dari [Upwork](https://blog.sua.ist/pwrk-rbt). Ya, namanya juga iseng-iseng—yang semoga saja—berhadiah.
+Setelah turut berpartisipasi menyumbangkan data pribadi saya di situs [flancer.work](https://flancer.work) pada [bulan Januari](https://blog.sua.ist/flncr-dt-wrk) dua ribu dua puluh enam yang lalu, hari ini saya kembali mengulangi kegiatan serupa di situs [world-class.design](https://world-class.design/) dan [go-lifted.com](https://go-lifted.com/), yang ternyata merupakan [anak perusahaan](https://www.upwork.com/blog/introducing-lifted-an-upwork-company) dari [Upwork](https://blog.sua.ist/pwrk-rbt). Ya, namanya juga iseng-iseng—yang semoga saja—berhadiah.
 
 ([sua](https://sua.ist))
