@@ -1,5 +1,5 @@
 ---
-title: "O.c.d.o.d."
+title: "Ocdod."
 datePublished: Fri Feb 06 2026 06:55:15 GMT+0000 (Coordinated Universal Time)
 cuid: cmlaj6gxz000502kyaizj0tvx
 slug: ocdod
