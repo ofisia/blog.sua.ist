@@ -12,6 +12,6 @@ slug: mbygrts-part-iii
 
 Melanjutkan kegiatan yang tertera pada entri hari kemarin, hari ini saya mengunggah pula berkas-berkas video berisi *audio track* bung [Richard Melville Hall](https://en.wikipedia.org/wiki/Moby) ke sejumlah *platform*, yakni [tiktok.com/@ofisia.name](https://www.tiktok.com/@ofisia.name), [are.na/jim-ofisia](https://www.are.na/jim-ofisia) dan [savee.com/ofisia](https://savee.com/ofisia/).
 
-(baca [Part II](https://blog.sua.ist/mbygrts-part-ii))
+(baca [Part II](https://blog.sua.ist/mbygrts-part-ii), [Part IV](https://blog.sua.ist/mbygrts-part-iv))
 
 ([sua](https://sua.ist))
