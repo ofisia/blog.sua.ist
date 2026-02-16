@@ -14,6 +14,6 @@ Setelah sekian lama berisi kumpulan video bisu tanpa *audio track*, hari ini say
 
 Selain kedua situs tersebut, saya juga akhirnya memutakhirkan akun [Dribbble](https://dribbble.com/ofisia) saya yang telah lama terbengkalai, meskipun dengan dihiasi beberapa kendala tak terduga gegara ketentuan dalam [pedoman konten](https://dribbble.com/guidelines) yang belakangan ini menjadi semakin ketat dibanding Dribbble zaman dahulu, membuat saya terpaksa beberapa kali mengunggah ulang serta memangkas teks deskripsi sejumlah *shots* saya karena tidak *approved* oleh tim moderasi mereka.
 
-(baca [Part I](https://blog.sua.ist/mbygrts))
+(baca [Part I](https://blog.sua.ist/mbygrts), [Part III](https://blog.sua.ist/mbygrts-part-iii))
 
 ([sua](https://sua.ist))
