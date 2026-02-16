@@ -16,4 +16,6 @@ Selain buah karya bung Moby, saya sempat pula mempertimbangkan *tracks* dari dua
 
 Alasan saya kembali berburu *audio track* adalah karena di semesta Instagram, penggunanya dapat dengan mudah memilih jutaan lagu untuk mengiringi *reels* yang mereka unggah, sedangkan di semesta lainnya penggunaan lagu tanpa izin riskan membuat video unggahan mendapat *take down notice* berkat peraturan DMCA yang lebih ketat, sementara saya perlu pula *cross post* video-video *reels* saya ke pelbagai situs jejaring sosial selain semesta [Meta](https://en.wikipedia.org/wiki/Meta_Platforms) milik bung [Mark Zuckerberg](https://en.wikipedia.org/wiki/Mark_Zuckerberg).
 
+(baca [Part II](https://blog.sua.ist/mbygrts-part-ii))
+
 ([sua](https://sua.ist))
