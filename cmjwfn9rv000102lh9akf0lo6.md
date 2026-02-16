@@ -14,4 +14,6 @@ Surat elektronik terakhir yang saya terima dari [Upwork](https://upwork.com) ada
 
 Kini saat saya berniat melakukan Upwork *reboot*, ternyata [*pretty*](https://wordpress.org/documentation/article/customize-permalinks/) [*permalink*](https://en.wikipedia.org/wiki/Permalink) sudah tidak lagi gratis dan ditetapkan sebagai [fitur berbayar](https://support.upwork.com/hc/en-us/articles/360016252373-How-to-build-your-freelancer-profile-the-essentials) pada paket langganan [Freelancer Plus](https://support.upwork.com/hc/en-us/articles/211062888-What-is-Freelancer-Plus) mereka. Sekarang yang saya dapatkan hanyalah nama pengguna *alphanumeric* *‹*[*010ebbded98b78a15f*](https://upwork.com/freelancers/~010ebbded98b78a15f)*›* yang sangat generik dan *B aja*. *Oh well*, manusia hanya bisa berusaha, sedangkan takdir ditentukan oleh pemegang sama dan dewan direksi Upwork.
 
+(baca [Part II](https://blog.sua.ist/pwrk-rbt-part-ii))
+
 ([sua](https://sua.ist))
